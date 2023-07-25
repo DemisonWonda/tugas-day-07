@@ -5,3 +5,6 @@ Belajar  HTML 2023 Tugas Day 07
 Hallo ini Hasilnya tugas day 07:
 
 https://demisonwonda.github.io/tugas-day-07/inde.html
+
+![Uploading image.png…]()
+
